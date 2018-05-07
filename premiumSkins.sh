@@ -655,4 +655,4 @@ wget configs-web.agario.miniclippt.com/live/$configVersion/fss_madmuffin_hi.png 
 wget configs-web.agario.miniclippt.com/live/$configVersion/fss_candygenius_hi.png -O candy_genious.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_omega_hi.png -O omega.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_frosthand_hi.png -O frost_hand.png
-wget configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_radicalsmile_hi.png -O radical_hand.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_radicalsmile_hi.png -O radical_smile.png
