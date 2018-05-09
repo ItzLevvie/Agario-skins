@@ -1,4 +1,4 @@
-configVersion=v9/1345
+configVersion=v9/1352
 wget configs-web.agario.miniclippt.com/live/$configVersion/Banana_hi.png -O banana.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/Cookie_hi.png -O cookie.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/Jupiter_hi.png -O jupiter.png
@@ -656,3 +656,6 @@ wget configs-web.agario.miniclippt.com/live/$configVersion/fss_candygenius_hi.pn
 wget configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_omega_hi.png -O omega.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_frosthand_hi.png -O frost_hand.png
 wget configs-web.agario.miniclippt.com/live/$configVersion/darkdimension_radicalsmile_hi.png -O radical_hand.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v1_bull_skull_hi.png -O bull_skull.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v1_the_stranger_hi.png -O the_stranger.png
+wget configs-web.agario.miniclippt.com/live/$configVersion/may_merchant_v1_wild_pepper_hi.png -O wild_pepper.png
