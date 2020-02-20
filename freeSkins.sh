@@ -1,4 +1,4 @@
-configVersion=v15/2557
+configVersion=v15/2637
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/poland.png -O poland.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/usa.png -O usa.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/china.png -O china.png > /dev/null 2>&1
@@ -177,7 +177,7 @@ wget https://configs-web.agario.miniclippt.com/live/$configVersion/yemeni.png -O
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/getdeadkid-xmas.png -O GDK\ Xmas.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/alejoyt.png -O alejoyt.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/bang.png -O bang.png > /dev/null 2>&1
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/demonx.png -O demonx.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/demonx.png -O demon.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/minhvu.png -O minhvu.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/mister.png -O mister.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/peps.png -O peps.png > /dev/null 2>&1

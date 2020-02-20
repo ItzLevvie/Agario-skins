@@ -1,4 +1,4 @@
-configVersion=v15/2557
+configVersion=v15/2637
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/Banana.png -O banana.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/Cookie.png -O cookie.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/Jupiter.png -O jupiter.png > /dev/null 2>&1
@@ -853,3 +853,17 @@ wget https://configs-web.agario.miniclippt.com/live/$configVersion/baddie.png -O
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/chilled_homie.png -O chilled_homie.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/dog_life.png -O dog_life.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/titan_demon.png -O demon.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/mgs_in-cog-nito.png -O in-cog-nito.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/mgs_lit.png -O lit.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/mgs_steam_skull.png -O steam_skull.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/titan_giant_spider.png -O giant_spider.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/kobe.png -O kobe.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/neon_dog.png -O neon_dog.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/moustache_mask.png -O moustache_mask.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/Predator_Gorilla.png -O gorilla.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/sweetie.png -O sweetie.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/nibblebug.png -O nibblebug.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/shot_of_love.png -O shot_of_love.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/dollhouse.png -O dollhouse.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/plague.png -O plague.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/stretch_dog.png -O stretch_dog.png > /dev/null 2>&1
