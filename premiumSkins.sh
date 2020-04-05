@@ -1,4 +1,4 @@
-configVersion=v15/2701
+configVersion=v15/2718
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/Banana.png -O banana.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/Cookie.png -O cookie.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/Jupiter.png -O jupiter.png > /dev/null 2>&1
@@ -880,3 +880,6 @@ wget https://configs-web.agario.miniclippt.com/live/$configVersion/Horrorscope_A
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/Madame_moo.png -O madame_moo.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/Panda_fun.png -O panda_fun.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/titan_desert_worm.png -O desert_worm.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/Mindseye.png -O mindseye.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/Madshroom.png -O madshroom.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/Enokuous.png -O enokuous.png > /dev/null 2>&1
