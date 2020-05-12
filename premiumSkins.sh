@@ -1,4 +1,4 @@
-configVersion=v15/2769
+configVersion=v15/2807
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/Banana.png -O banana.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/Cookie.png -O cookie.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/Jupiter.png -O jupiter.png > /dev/null 2>&1
@@ -891,3 +891,10 @@ wget https://configs-web.agario.miniclippt.com/live/$configVersion/easter_2020_s
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/Horrorscope_Taurus.png -O viletauro.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/Wannapieceofme.png -O wannapieceofme.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/StayHome.png -O stay_home.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/titan_ghost_reaper.png -O ghost_reaper.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/sugarrush_dohnut.png -O dohnut.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/sugarrush_moofun.png -O moofun.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/sugarrush_wahfull.png -O wahfull.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/Dancer.png -O dancer.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/Guitarist.png -O guitarist.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/Predator_Cobra.png -O cobra.png > /dev/null 2>&1

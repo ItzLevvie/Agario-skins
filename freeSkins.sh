@@ -1,4 +1,4 @@
-configVersion=v15/2769
+configVersion=v15/2807
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/poland.png -O poland.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/usa.png -O usa.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/china.png -O china.png > /dev/null 2>&1
