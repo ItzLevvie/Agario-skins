@@ -1,4 +1,4 @@
-configVersion=v15/2914
+configVersion=v15/3049
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/Banana.png -O banana.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/Cookie.png -O cookie.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/Jupiter.png -O jupiter.png > /dev/null 2>&1
@@ -922,3 +922,13 @@ wget https://configs-web.agario.miniclippt.com/live/$configVersion/Tjoops.png -O
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/Frankie_Tomankie.png -O frankie_tomankie.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/uncle_eagle.png -O uncle_eagle.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/free_skies.png -O free_skies.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/SkullBoss.png -O skull_boss.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/River_Crocodile.png -O river_crocodile.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/Concentrated.png -O concentrated.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/Duckface.png -O duckface.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/Horrorscope_Leo.png -O beastleo.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/Croc_Fu.png -O croc_fu.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/Octoeira.png -O octoeira.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/Krav_Monki.png -O krav_monki.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/DavyBorg.png -O DavyBorg.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/titan_giant_snake.png -O giant_snake.png > /dev/null 2>&1
