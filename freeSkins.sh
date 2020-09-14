@@ -1,4 +1,4 @@
-configVersion=v15/3158
+configVersion=v15/3175
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/poland.png -O poland.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/usa.png -O usa.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/china.png -O china.png > /dev/null 2>&1
@@ -183,3 +183,8 @@ wget https://configs-web.agario.miniclippt.com/live/$configVersion/mister.png -O
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/peps.png -O peps.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/togomanyt.png -O togomanyt.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/Ashwinyt.png -O Ashwinyt.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/EvilMonkey.png -O EvilMonkey.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/Alejoyt2.png -O Alejoyt2.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/Araizon.png -O Araizon.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/Skillsyt.png -O Skillsyt.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/Sonic_Games.png -O SonicGames.png > /dev/null 2>&1
