@@ -1,4 +1,4 @@
-configVersion=v15/3175
+configVersion=v15/3187
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/Banana.png -O banana.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/Cookie.png -O cookie.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/Jupiter.png -O jupiter.png > /dev/null 2>&1
@@ -837,9 +837,9 @@ wget https://configs-web.agario.miniclippt.com/live/$configVersion/bunnytron.png
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/electro_chick.png -O electro_chick.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/cyborg_clown.png -O cyborg_clown.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/titan_cthulhu.png -O cthulhu.png > /dev/null 2>&1
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/skin_snow_friend.png -O snow_friend.png > /dev/null 2>&1
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/skin_best_gift.png -O best_gift.png > /dev/null 2>&1
-wget https://configs-web.agario.miniclippt.com/live/$configVersion/skin_snow_globe.png -O snow_globe.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/snow_friend.png -O snow_friend.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/best_gift.png -O best_gift.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/snow_globe.png -O snow_globe.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/rat.png -O rat.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/golden_rat.png -O golden_rat.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/lucky_rat.png -O lucky_rat.png > /dev/null 2>&1
@@ -956,3 +956,7 @@ wget https://configs-web.agario.miniclippt.com/live/$configVersion/Gryphon_Boss.
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/Predator_Great_White.png -O great_white.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/Chomper.png -O chomper.png > /dev/null 2>&1
 wget https://configs-web.agario.miniclippt.com/live/$configVersion/Zipper.png -O zipper.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/Horrorscope_Libra.png -O lurid.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/Jaja.png -O jaja.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/ElBillion.png -O elBillion.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/live/$configVersion/Sunkey.png -O sunkey.png > /dev/null 2>&1
