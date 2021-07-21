@@ -1,0 +1,195 @@
+configVersion=v15/10152
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/poland.png -O poland.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/usa.png -O usa.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/china.png -O china.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/russia.png -O russia.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/canada.png -O canada.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/australia.png -O australia.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/spain.png -O spain.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/brazil.png -O brazil.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/germany.png -O germany.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/ukraine.png -O ukraine.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/france.png -O france.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/sweden.png -O sweden.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/north_korea.png -O north\ korea.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/south_korea.png -O south\ korea.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/japan.png -O japan.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/united_kingdom.png -O united\ kingdom.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/earth.png -O earth.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/greece.png -O greece.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/latvia.png -O latvia.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/lithuania.png -O lithuania.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/estonia.png -O estonia.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/finland.png -O finland.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/norway.png -O norway.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/cia.png -O cia.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/Maldives.png -O maldives.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/austria.png -O austria.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/nigeria.png -O nigeria.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/reddit.png -O reddit.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/yaranaika.png -O yaranaika.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/9gag.png -O 9gag.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/indiana.png -O indiana.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/4chan.png -O 4chan.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/italy.png -O italy.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/bulgaria.png -O bulgaria.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/2ch_hk.png -O 2ch.hk.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/hong_kong.png -O hong\ kong.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/portugal.png -O portugal.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/jamaica.png -O jamaica.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/mexico.png -O mexico.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/sanik.png -O sanik.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/switzerland.png -O switzerland.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/croatia.png -O croatia.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/chile.png -O chile.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/indonesia.png -O indonesia.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/bangladesh.png -O bangladesh.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/thailand.png -O thailand.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/iran.png -O iran.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/iraq.png -O iraq.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/peru.png -O peru.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/moon.png -O moon.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/botswana.png -O botswana.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/bosnia.png -O bosnia.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/netherlands.png -O netherlands.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/european_union.png -O european\ union.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/taiwan.png -O taiwan.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/pakistan.png -O pakistan.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/hungary.png -O hungary.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/qing_dynasty.png -O qing\ dynasty.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/matriarchy.png -O matriarchy.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/patriarchy.png -O patriarchy.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/feminism.png -O feminism.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/ireland.png -O ireland.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/texas.png -O texas.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/facepunch.png -O facepunch.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/prodota.png -O prodota.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/cambodia.png -O cambodia.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/steam.png -O steam.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/piccolo.png -O piccolo.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/ea.png -O ea.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/india.png -O india.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/denmark.png -O denmark.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/quebec.png -O quebec.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/ayy_lmao.png -O ayy\ lmao.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/sealand.png -O sealand.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/bait.png -O bait.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/origin.png -O origin.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/vinesauce.png -O vinesauce.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/belgium.png -O belgium.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/luxembourg.png -O luxembourg.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/stussy.png -O stussy.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/argentina.png -O argentina.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/scotland.png -O scotland.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/sir.png -O sir.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/romania.png -O romania.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/wojak.png -O wojak.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/doge.png -O doge.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/nasa.png -O nasa.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/byzantium.png -O byzantium.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/french_kingdom.png -O french\ kingdom.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/somalia.png -O somalia.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/turkey.png -O turkey.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/mars.png -O mars.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/pokerface.png -O pokerface.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/irs.png -O irs.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/receita_federal.png -O receita\ federal.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/8.png -O 8.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/tsipras.png -O tsipras.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/berlusconi.png -O berlusconi.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/blatter.png -O blatter.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/boris.png -O boris.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/bush.png -O bush.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/cameron.png -O cameron.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/chavez.png -O chavez.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/clinton.png -O clinton.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/cuba.png -O cuba.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/dilma.png -O dilma.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/fidel.png -O fidel.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/hillary.png -O hillary.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/hollande.png -O hollande.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/merkel.png -O merkel.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/obama.png -O obama.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/palin.png -O palin.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/putin.png -O putin.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/queen.png -O queen.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/trump.png -O trump.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/venezuela.png -O venezuela.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/Colombia.png -O colombia.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/Soccer.png -O football.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/varoufakis.png -O varoufakis.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/chaplin.png -O chaplin.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/tumblr.png -O tumblr.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/german_empire.png -O german\ empire.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/tsarist_russia.png -O tsarist\ russia.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/stalin.png -O stalin.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/prussia.png -O prussia.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/imperial_japan.png -O imperial\ japan.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/facebook.png -O facebook.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/kim_jong_un.png -O kim\ jong-un.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/birthday_cake.png -O agario.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/Yellow.png -O Pika.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/Blue.png -O Squi.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/Green.png -O Bulba.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/Red.png -O Char.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/Crystal.png -O crystal.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/Kristoffer.png -O kristoffer.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/n0psa.png -O n0psa.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/RayDay.png -O rayday.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/Sirius.png -O sirius.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/TYT.png -O tyt.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/Matjoy.png -O matjoy.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/Timid_Agario.png -O Timid.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/Togoman.png -O Togoman.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/Zone.png -O Zone.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/SneddyGaming.png -O Sneddy\ Gaming.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/GetDeadKid.png -O GetDeadKid.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/Ashwin.png -O Ashwin.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/bahrain.png -O bahrain.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/kuwait.png -O kuwait.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/saudiArabia.png -O saudi\ arabia.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/unitedArabEmirates.png -O uae.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/albania.png -O albania.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/egypt.png -O egypt.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/jordan.png -O jordan.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/kurdistan.png -O kurdistan.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/lebanon.png -O lebanon.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/southAfrica.png -O south\ africa.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/Snay.png -O Snay.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/Snay-Gang.png -O Snay-Gang.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/Snay-Chocolate.png -O Snay-Chocolate.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/Mistik.png -O Mistik.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/babadook.png -O babadook.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/xxnetro.png -O xxnetro.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/GURI.png -O GURI.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/kbkb.png -O kbkb.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/strike.png -O strike.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/3lkoos.png -O 3LK.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/Brax.png -O Brax.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/Majnoon.png -O MAJNOON.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/Skills.png -O Skills.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/Sonic.png -O Sonic.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/Woobs.png -O Woobs.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/statik.png -O statik.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/xxnetro2.png -O xxnetro2.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/yemeni.png -O yemeni.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/getdeadkid-xmas.png -O GDK\ Xmas.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/alejoyt.png -O alejoyt.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/bang.png -O bang.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/demonx.png -O demon.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/minhvu.png -O minhvu.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/mister.png -O mister.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/togomanyt.png -O togomanyt.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/Ashwinyt.png -O Ashwinyt.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/EvilMonkey.png -O EvilMonkey.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/Alejoyt2.png -O Alejoyt2.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/Araizon.png -O Araizon.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/Skillsyt.png -O Skillsyt.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/Sonic_Games.png -O SonicGames.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/Silver.png -O silver.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/twisted.png -O twisted.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/alejo.png -O alejo.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/alejoyoutube.png -O alejoyoutube.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/Hero.png -O Hero.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/Agarmurfs.png -O Agarmurfs.png > /dev/null 2>&1
+wget https://configs-web.agario.miniclippt.com/staging/$configVersion/3ezzy.png -O 3ezzy.png > /dev/null 2>&1
